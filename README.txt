@@ -1,0 +1,1 @@
+This scripts require a debian installation with just the basic tools and CLI interface no DE can be installed
